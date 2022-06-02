@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello Protein DevOps BootCamp")
+	fmt.Println("Hello Protein DevOps BootCamp !")
 }
