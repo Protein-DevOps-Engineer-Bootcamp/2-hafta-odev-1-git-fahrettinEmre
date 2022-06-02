@@ -1,10 +1,10 @@
 #!/bin/bash
-##################################
-#Author : Fahrettin Emre Dalga
-#Date : 27.05.2022
-#Version:GNU bash, version 4.3.48(1)-release (x86_64-pc-linux-gnu)
-#Usage : for build
-##################################
+#########################################################################
+##    Author : Fahrettin Emre Dalga                                    ## 
+##    Date : 27.05.2022                                                ##
+##    Version:GNU bash, version 4.3.48(1)-release (x86_64-pc-linux-gnu)##
+##    Usage : for build                                                ##
+#########################################################################
 
 #load config file
 source /home/vagrant/2-hafta-odev-1-git-fahrettinEmre/HomeworkBuild/buildfunctions.conf

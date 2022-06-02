@@ -1,6 +1,4 @@
-# 2.Hafta 1.Odev
-
-
+# 2.Hafta 1.Ödev
 
 ## Table of contents
 
@@ -23,3 +21,4 @@ Kullanıcı projenin sadece belirli bir branch'ini derlemek istediğinde kullana
 #### Not:
 
 - Burada verilen proje `Golang` ile yazilmistir ve `go build` ile paket yönetimi yapılmıştır.
+- Compress örnekleri example_ss klasörü içerisinde bulunmaktadır.
